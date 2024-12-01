@@ -1,4 +1,6 @@
 # MavenMarket-Analysis-using-PowerBI
+![Maven Market](photo.jpg)
+
 This Power BI project demonstrates advanced data analysis and visualization for Marven Market, providing insights into key business metrics. The report includes:
 
 Interactive Dashboards: Engaging visuals such as bar charts, line graphs, and KPI cards for tracking performance metrics.
